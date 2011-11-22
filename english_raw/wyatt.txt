@@ -1,0 +1,238 @@
+AUTHOR Thomas Wyatt
+
+TITLE Satire II
+
+RHYME a b a
+RHYME-POEM a b a 
+
+MY mother's maids, when they did sew and spin,
+They sang sometime a song of the field mouse
+That, for because her livelihood was but thin,
+
+RHYME a b a
+RHYME-POEM b c b 
+
+Would needs go seek her townish sister's house.
+She thought herself endured too much pain;
+The stormy blasts her cave so sore did souse
+
+RHYME a b a
+RHYME-POEM c d c 
+
+That when the furrows swimmed with the rain,
+She must lie cold and wet in sorry plight;
+And worse than that, bare meat there did remain
+
+RHYME a b a
+RHYME-POEM d e d 
+
+To comfort her when she her house had dight;
+Sometime a barly corn; sometime a bean,
+For which she laboured hard both day and night
+
+RHYME a b a
+RHYME-POEM e f e 
+
+In harvest time whilst she might go and glean;
+And where store was 'stroyed with the flood,
+Then welaway! for she undone was clean.
+
+RHYME a b a
+RHYME-POEM f g f 
+
+Then was she fain to take instead of food
+Sleep, if she might, her hunger to beguile.
+     "My sister," quoth she, "hath a living good,
+
+RHYME a b a b
+RHYME-POEM g h g h 
+
+And hence from me she dwelleth not a mile.
+In cold and storm she lieth warm and dry
+In bed of down, the dirt doth not defile
+Her tender foot, she laboureth not as I.
+
+TITLE A Love Song
+
+RHYME a a b a b
+RHYME-POEM a a b a b 
+
+My lute, awake! perform the last
+Labor that thou and I shall waste;
+And end that I have now begun:
+And when this song is sung and past,
+My lute! be still, for I have done.
+
+RHYME a a b a b
+RHYME-POEM c c b c b 
+
+As to be heard where ear is none;
+As lead to grave in marble stone,
+My song may pierce her heart as soon;
+Should we then sing, or sigh, or moan?
+No, no, my lute! for I have done.
+
+RHYME a a b a b
+RHYME-POEM d d b d b 
+
+The rock doth not so cruelly,
+Repulse the waves continually,
+As she my suit and affection:
+So that I am past remedy;
+Whereby my lute and I have done.
+
+RHYME a a b a b
+RHYME-POEM e e b e b 
+
+Proud of the spoil that thou hast got
+Of simple hearts thorough Love's shot,
+By whom, unkind, thou hast them won;
+Think not he hath his bow forgot,
+Although my lute and I have done.
+
+RHYME a a b a b
+RHYME-POEM f f b f b 
+
+Vengeance shall fall on thy disdain,
+That makest but game of earnest pain;
+Trow not alone under the sun
+Unquit to cause thy lovers plain,
+Although my lute and I have done.
+
+RHYME a a b a b
+RHYME-POEM g g b g b 
+
+May chance thee lie withered and old
+In winter nights, that are so cold,
+Plaining in vain unto the moon;
+Thy wishes then dare not be told:
+Care then who list, for I have done.
+
+RHYME a a b a b
+RHYME-POEM h h b h b 
+
+And then may chance thee to repent
+The time that thou hast lost and spent,
+To cause thy lovers sigh and swoon:
+Then shalt thou know beauty but lent,
+And wish and want, as I have done.
+
+RHYME a a b a b
+RHYME-POEM a a b a b 
+
+Now cease, my lute! This is the last
+Labor that thou and I shall waste;
+And ended is that we begun:
+Now is thy song both sung and past;
+My lute, be still, for I have done.
+
+TITLE Since So Ye Please
+
+RHYME a b a b
+RHYME-POEM a b a b 
+
+Since so ye please to hear me plain,
+And that ye do rejoice my smart,
+Me list no lenger to remain
+To such as be so overthwart.
+
+RHYME a b a b
+RHYME-POEM b c b c 
+
+But cursed be that cruel heart
+Which hath procur'd a careless mind
+For me and mine unfeigned smart,
+And forceth me such faults to find.
+
+RHYME a b a b
+
+More than too much I am assured
+Of thine intent, whereto to trust;
+A speedless proof I have endured,
+And now I leave it to them that lust. 
+
+TITLE The Appeal: An Earnest Suit to his Unkind Mistress, not to Forsake him
+
+RHYME a b b b a c
+RHYME-POEM a b b b a c 
+
+AND wilt thou leave me thus! 
+Say nay, say nay, for shame! 
+--To save thee from the blame 
+Of all my grief and grame. 
+And wilt thou leave me thus? 
+   Say nay! say nay! 
+
+RHYME a b b b a c
+RHYME-POEM a d d d a c 
+
+And wilt thou leave me thus, 
+That hath loved thee so long 
+In wealth and woe among: 
+And is thy heart so strong 
+As for to leave me thus? 
+   Say nay! say nay! 
+
+RHYME a b b b a c
+RHYME-POEM a e e e a c 
+
+And wilt thou leave me thus, 
+That hath given thee my heart 
+Never for to depart 
+Neither for pain nor smart: 
+And wilt thou leave me thus? 
+   Say nay! say nay! 
+
+RHYME a b b b a c
+RHYME-POEM a f f f a c 
+
+And wilt thou leave me thus, 
+And have no more pitye 
+Of him that loveth thee? 
+Alas, thy cruelty! 
+And wilt thou leave me thus? 
+   Say nay! say nay! 
+
+TITLE The Courtier's Life
+
+RHYME a b a b b c c
+
+In court to serve, decked with fresh array,
+Of sugared meats feeling the sweet repast;
+The life in banquets and sundry kinds of play,
+Amid the press of worldly looks to waste:
+Hath with it joined oft times such bitter taste,
+That whoso joyes such kind of life to hold,
+In prison joyes, fettered with chains of gold.
+
+TITLE They flee from me
+
+RHYME a b a b b c c
+
+They flee from me, that sometime did me seek,
+With naked foot stalking in my chamber.
+I have seen them, gentle, tame, and meek,
+That now are wild, and do not remember
+That sometime they put themselves in danger
+To take bread at my hand; and now they range,
+Busily seeking with a continual change.
+
+RHYME a b a b b c c
+
+Thanked be Fortune it hath been otherwise,
+Twenty times better; but once in special,
+In thin array, after a pleasant guise,
+When her loose gown from her shoulders did fall,
+And she me caught in her arms long and small,
+And therewith all sweetly did me kiss
+And softly said, "Dear heart, how like you this?"
+
+RHYME a b a b b c c
+
+It was no dream, I lay broad waking.
+But all is turned, thorough my gentleness,
+Into a strange fashion of forsaking;
+And I have leave to go, of her goodness,
+And she also to use newfangleness.
+But since that I so kindely am served,
+I fain sould know what she hath deserved.
